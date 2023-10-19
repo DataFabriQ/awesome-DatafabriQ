@@ -4,29 +4,35 @@ ___
 
 ##### Created: MM/DD/YYYY
 
-##### Owner:  
+##### Owner: DatafabriQ
 
-##### Work-Group:  
+##### Expert Group:  Decentral Operating Environment
 
-##### Status: WIP | In Review | Approved | Obsolete
+##### Group Lead:    Danny de Waard
+
+##### Status: Draft | In Review | Approved | Obsolete
 
 ##### Release Version: N/A
 
 ##### Reviewers: xxxx[ ], xxx []
 
-##### Approvers: xxx [], xxx []
+##### Association Approvers: xxx [], xxx []
 
-##### Short self link: https://goo.gl/fAFwgT
+##### Technical Approvers: Julia Jeroch, xxx []
 
 ___
-#### 1. Summary (what is this document about?)
+#### 1. Summary (what is this proposal about about?)
+
+**Task:** **Decentralization of 3rd Party EDC registration**
 
 <role> wants to <use this feature> so that <problem they have is solved>.
 
 Portfolio Epic Label: <common epic label tagged to applicable stories across teams’ backlogs in order to improve our ability to predict when we will solve this problem>
 
 Contributing Teams:
-<List of teams required to contribute in order to achieve the Feature Narrative + summary of their scope/responsibilities>
+
+Contributing Parties:
+- SupplyOn
 
 
 Useful Links:
