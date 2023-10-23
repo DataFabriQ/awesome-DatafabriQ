@@ -71,7 +71,7 @@ Real-world examples of potential and actual customers who have this problem.
 <define the degree to which there is a time criticality to deliver this and why>
 
 
-#### 4. Product Goals (what solution will we implement?)
+#### 4. Goals (what solution will we implement?)
 Solution Description
 <Introduction of the solution we want to deliver for context>
 
@@ -107,29 +107,15 @@ Anti-Goals
 
 #### 6. Quality and Maintainability Plan
 
-<list any quality requirements specific to the feature and strategies (beyond standard TDD / XP practices) that will have a meaningful effect on ensuring quality and maintainability once delivered. Some standard considerations include:>
-
-Burn-in - Will the feature be deployed to a long lived web services environment or customer-facing deployment prior to delivery ? 
-Load Testing - Have we run this at increasing levels of load, ideally we want to get to the edges of the product before our customers do?
-Performance Testing - Coupled with above, do we see any performance degradation when at this level of load?
-Upgrades / Deployments - Have we validated that zero downtime is working? that applications successfully move / rebalance & perform the expected behavior
-Backup / Restore - If this is needed have we built it, fire drilled it and tested continuous restore?
-Operations - How does an Operator (or other applicable persona) know...
-how to operate this feature? 
-when it is broken? 
-when it is performing badly? 
-Failure Modes - How could the feature / product fail in customers’ production environments or cause other CF components to fail?
-
-<list any measures / metrics that indicate success upon delivering the feature>
 
 
 #### 7. Feedback from Customers and Stakeholders (How do we know if this is successful in solving the problem?)
 
-<Note down observations / feedback from customers, PMM, sales/FEs, engineers on relevant teams, other PMs, foundation, etc..>
 
-<Note down by what measurements will we know if we were successful in solving the problem or not>
 
 
 #### 8. Scoping Estimate
 
-<An area to summarize the estimated scope of work in terms of time.  Please estimate whether each item is more likely to be a day, a week, a month, 3 months,
+
+
+Validated By:
