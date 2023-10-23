@@ -1,5 +1,9 @@
 # Expert Group Proposal
 ## Catena-X
+
+
+![Proposal Process](https://github.com/DataFabriQ/awesome-DatafabriQ/assets/73254653/9ac87af7-2e52-47a6-9ee2-d5186890fbd3)
+
 ___
 
 ##### Created: MM/DD/YYYY
