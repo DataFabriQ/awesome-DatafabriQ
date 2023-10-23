@@ -23,9 +23,19 @@ ___
 ___
 #### 1. Summary (what is this proposal about about?)
 
-**Task:** **Decentralization of 3rd Party EDC registration**
+**Task:** **Decentralization of 3rd Party Technical User Role**
 
-<role> wants to <use this feature> so that <problem they have is solved>.
+A service provider within Catena-X is required to be granted a Technical User in order to run a service for a customer/user. As service or app provider you can create technical users only per subscription. This is only possible through the activation within the portal. 
+
+**Decentralization Request:**
+The following technical user are dependent on a centralized workflow:
+1. Technical user role for the modifying of Identity Wallet Management
+2. BPDM Pool technical user to connect to the BPDM Data Pool
+3. BPDM Partner Gate allows to view and add business partner data via the owned service gate
+4. BPDM Management View, Add and Delete business partner records from the business partner data pool
+5. Dataspace Discovery technical user for dataspace discovery endpoints
+6. Service Management technical user to add service offering; activate subscription requests and create managed connector registrations for 3rd parties
+7. Registration External Technical user to generate 3rd party registrations by onboarding service provider companies
 
 Portfolio Epic Label: <common epic label tagged to applicable stories across teams’ backlogs in order to improve our ability to predict when we will solve this problem>
 
